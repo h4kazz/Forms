@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "0341",
+      "username": "SENAAAASSS",
+      "email": "tastnaujas@gmail.com",
+      "channel": "Kevin Powell",
+      "color": null,
+      "hobbies": [
+        "Reading"
+      ],
+      "likes": 13
+    },
+    {
+      "id": "f0c3",
+      "username": "test1",
+      "email": "test1@gmail.com",
+      "channel": "Kevin Powell",
+      "color": "green",
+      "hobbies": [
+        "Reading"
+      ],
+      "likes": 5
+    },
+    {
+      "id": "72ae",
+      "username": "hhhh",
+      "email": "hhhh@gmail.com",
+      "channel": "Kevin Powell",
+      "color": null,
+      "hobbies": [
+        "Reading"
+      ],
+      "likes": 3
+    },
+    {
+      "id": "8873",
+      "username": "tttt",
+      "email": "tttt@gmail.com",
+      "channel": "Kevin Powell",
+      "color": "green",
+      "hobbies": [
+        "Traveling"
+      ],
+      "likes": 4
+    },
+    {
+      "id": "865c",
+      "username": "tamtam",
+      "email": "tam@gmail.com",
+      "channel": "Kevin Powell",
+      "color": "green",
+      "hobbies": [
+        "Reading"
+      ],
+      "likes": 7
+    }
+  ]
+}
